@@ -1,0 +1,17 @@
+.adk
+adk_testing.egg-info
+adk_testing.egg-info/
+agents/__pycache__
+agents/myenv
+# Distribution / packaging
+*.egg-info/
+.eggs/
+dist/
+build/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pycw*.__init__/
+.env
+.env
